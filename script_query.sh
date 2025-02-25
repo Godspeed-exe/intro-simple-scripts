@@ -1,0 +1,1 @@
+cardano-cli query utxo --address $(cat script.addr) --testnet-magic 1
